@@ -1,0 +1,9 @@
+[submodule "1-LCT-missitated-version-sugihara-2008"]
+	path = 1-LCT-missitated-version-sugihara-2008
+	url = git://github.com/dronekeys/1-LCT-missitated-version-sugihara-2008.git
+[submodule "dronekey-tools"]
+	path = dronekey-tools
+	url = git://github.com/dronekeys/dronekey-tools.git
+[submodule "crates"]
+	path = crates
+	url = https://bitbucket.org/jowim/crates.git
